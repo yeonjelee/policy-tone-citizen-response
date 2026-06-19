@@ -60,25 +60,3 @@
 | 거시 통제 | 한국은행 ECOS, 통계청 KOSIS |
 | 금융시장 | 원/달러 환율(ECOS), KOSPI(yfinance) |
 | 보조 | AI Hub 금융 합성 데이터 |
-
-## 재현 방법
-
-```bash
-pip install -r requirements.txt
-cp .env.example .env          # ECOS·네이버·KOSIS API 키 입력
-
-# 수집 (raw/ 생성)
-python scripts/collect_ecos.py
-python scripts/collect_naver.py
-# ... (scripts/ 내 collect_*.py)
-
-# 분석 파이프라인
-python scripts/score_tone.py
-python scripts/cluster_phases.py
-python scripts/deviation_anomaly.py
-python scripts/event_study.py
-# ...
-
-# 결과 보고서 생성
-node scripts/build_deck.js
-```
