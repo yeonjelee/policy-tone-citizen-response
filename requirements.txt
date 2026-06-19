@@ -1,0 +1,13 @@
+requests
+beautifulsoup4
+pandas
+yfinance
+python-dotenv
+pdfplumber
+openpyxl
+kiwipiepy
+ekonlpy
+scikit-learn
+scipy
+matplotlib
+pytrends

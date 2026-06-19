@@ -1,0 +1,30 @@
+# ── 비밀키 (절대 커밋 금지) ──
+.env
+
+# ── 원본 데이터 (대용량·재배포 라이선스 제약으로 제외) ──
+# 재현 시 scripts/ 로 직접 수집 (.env.example 참고)
+raw/
+
+# ── 대용량 중간 산출물 (코드로 재생성 가능) ──
+processed/tone/doc_axis_bow.csv
+processed/tone/sentences.csv
+processed/tone/ekonlpy_seed.csv
+
+# ── 개인정보 포함 원본 보고서 (익명본만 커밋) ──
+데이터분석및활용_결과보고서_2410615_이연제.pdf
+
+# ── 프로젝트 무관 파일 ──
+Revolut.md
+
+# ── Python ──
+__pycache__/
+*.pyc
+*.pyo
+
+# ── 디버그/임시 산출물 ──
+debug_*.json
+debug_*.html
+_qa/
+_qa*/
+*.tmp
+.~lock.*

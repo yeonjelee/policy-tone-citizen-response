@@ -1,0 +1,9 @@
+﻿period,phase,zD,anom_theory,anom_lof,dominant_channel,추정원인,유형
+2016-03,1-1,1.73,0,1,"fiscal×invest(-11.2), growth×realestate(-1.1)",초기 재정톤 표본부족(MOEF 문서 희소)로 fiscal 톤 불안정,데이터아티팩트
+2016-04,1-1,2.38,1,1,"fiscal×invest(-11.1), growth×realestate(-2.0)",초기 재정톤 표본부족 아티팩트(fiscal×invest 극단 z),데이터아티팩트
+2016-05,1-1,2.51,1,0,"fiscal×invest(-6.3), inflation×loan(-2.3)",초기 재정톤 표본부족 아티팩트,데이터아티팩트
+2019-05,1-1,2.35,1,0,"inflation×realestate(-1.8), fiscal×realestate(-1.8)",저물가·미중 무역분쟁·부동산 규제(9.13 여파) — 긴축톤 대비 부동산 관심 잔존,실제사건
+2020-03,1-0,3.8,1,1,"finstab×currency(-8.7), growth×currency(-7.5)",코로나19 팬데믹 패닉 — 환율 급등·증시 폭락·긴급 금리인하,실제사건
+2022-10,0-1,1.67,0,1,"finstab×loan(-2.6), finstab×realestate(-2.5)","고강도 긴축 + 레고랜드 자금경색, 부동산 경착륙·전세 불안 — 긴축인데 대출·부동산 검색 급증",실제사건
+2022-11,0-1,0.41,0,1,"finstab×realestate(-1.3), finstab×loan(-1.2)",레고랜드 사태 여진·자금시장 경색 지속,실제사건
+2024-12,1-0,3.73,1,1,"finstab×currency(-6.7), growth×currency(-5.1)",비상계엄·정국 충격 — 환율 급등,실제사건

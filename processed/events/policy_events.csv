@@ -1,0 +1,168 @@
+﻿date,source,doc_id,tone_key,tone
+2016-01-14,mpb,bok_mpb_201601,tone_inflation,-0.1428571428571428
+2016-02-16,mpb,bok_mpb_201602,tone_inflation,-0.6666666666666666
+2016-03-10,mpb,bok_mpb_201603,tone_inflation,-0.6
+2016-03-29,moef,moef_201603_'2017년도 예산안 편성 및 기금운용계획안 작성지침' 확정,tone_fiscal,1.0
+2016-04-19,mpb,bok_mpb_201604,tone_inflation,-0.7142857142857143
+2016-05-13,mpb,bok_mpb_201605,tone_inflation,-0.6666666666666666
+2016-06-09,mpb,bok_mpb_201606,tone_inflation,-0.7142857142857143
+2016-06-28,moef,moef_201606_2016년 하반기 경제정책방향,tone_fiscal,-0.5111111111111111
+2016-07-14,mpb,bok_mpb_201607,tone_inflation,-1.0
+2016-07-22,moef,moef_201607_2016년 추가경정예산안,tone_fiscal,-1.0
+2016-07-22,moef,moef_201607_(보도참고) 2016년 추경예산안 합동브리핑,tone_fiscal,-1.0
+2016-08-11,mpb,bok_mpb_201608,tone_inflation,-1.0
+2016-08-30,moef,moef_201608_2017년 국세세입 예산안,tone_fiscal,
+2016-08-30,moef,moef_201608_(보도참고) 2017년 예산안 합동브리핑,tone_fiscal,
+2016-08-30,moef,moef_201608__일자리 우선! 경제활력 우선!_ 2017년 예산안 및 2016~2020년 국가재정운용계획,tone_fiscal,0.2830188679245283
+2016-09-02,moef,moef_201609_2016년 추가경정예산안 국회 확정,tone_fiscal,-1.0
+2016-09-02,moef,moef_201609_2016~2020년 국가재정운용계획,tone_fiscal,0.3943661971830985
+2016-09-09,mpb,bok_mpb_201609,tone_inflation,-0.2
+2016-09-12,moef,moef_201609_추석 이전에 추경예산 70%이상(중앙부처 기준) 집행 전망,tone_fiscal,-1.0
+2016-10-13,mpb,bok_mpb_201610,tone_inflation,-0.1428571428571428
+2016-11-11,mpb,bok_mpb_201611,tone_inflation,-0.6666666666666666
+2016-12-15,mpb,bok_mpb_201612,tone_inflation,-0.2
+2016-12-29,moef,moef_201612_2017년 경제정책방향,tone_fiscal,-0.5
+2017-01-13,mpb,bok_mpb_201701,tone_inflation,0.1111111111111111
+2017-02-23,mpb,bok_mpb_201702,tone_inflation,0.75
+2017-03-28,moef,moef_201703_'2018년도 예산안 편성 및 기금운용계획안 작성지침' 확정,tone_fiscal,0.0909090909090909
+2017-04-13,mpb,bok_mpb_201704,tone_inflation,0.6666666666666666
+2017-05-19,moef,moef_201705_2018년도 예산안 편성 및 기금운용계획안 작성 추가지침,tone_fiscal,
+2017-05-25,mpb,bok_mpb_201705,tone_inflation,1.0
+2017-06-05,moef,moef_201706_2017년 추가경정예산안,tone_fiscal,-1.0
+2017-06-12,moef,"moef_201706_[보도참고] 국제신용평가사 Moody’s, 추경 예산안 관련 Comment",tone_fiscal,-1.0
+2017-07-13,mpb,bok_mpb_201707,tone_inflation,0.3333333333333333
+2017-07-22,moef,moef_201707_2017년 일자리 추가경정예산안 국회 확정,tone_fiscal,-1.0
+2017-07-25,moef,moef_201707_새정부 경제정책방향,tone_fiscal,-1.0
+2017-08-29,moef,moef_201708_내 삶을 바꾸는 2018년도 예산안 및 2017~2021년 국가재정운용계획,tone_fiscal,-0.1875
+2017-08-31,mpb,bok_mpb_201708,tone_inflation,0.6666666666666666
+2017-10-13,moef,"moef_201710_기획재정부, 추경예산 집행현장 점검",tone_fiscal,-1.0
+2017-10-19,mpb,bok_mpb_201710,tone_inflation,0.5555555555555556
+2017-11-01,moef,moef_201711_예산안 시정연설 경제분야 후속조치 관련 회의 개최,tone_fiscal,
+2017-11-30,mpb,bok_mpb_201711,tone_inflation,0.6923076923076923
+2017-12-27,moef,moef_201712_2018년 경제정책방향,tone_fiscal,-0.6428571428571429
+2018-01-02,moef,moef_201801_2018~2022년 국가재정운용계획 수립지침 통보,tone_fiscal,
+2018-01-18,mpb,bok_mpb_201801,tone_inflation,0.4666666666666667
+2018-02-27,mpb,bok_mpb_201802,tone_inflation,1.0
+2018-03-26,moef,moef_201803_2019년도 예산안 편성 및 기금운용계획안 작성지침 확정,tone_fiscal,0.074074074074074
+2018-04-05,moef,moef_201804_2018년 추가경정예산안,tone_fiscal,-1.0
+2018-04-12,mpb,bok_mpb_201804,tone_inflation,0.7142857142857143
+2018-05-21,moef,moef_201805_청년일자리 창출과 고용.산업 위기지역 지원을 위한 2018년 추가경정예산 국회 확정,tone_fiscal,-1.0
+2018-05-24,mpb,bok_mpb_201805,tone_inflation,1.0
+2018-07-12,mpb,bok_mpb_201807,tone_inflation,1.0
+2018-07-18,moef,moef_201807_(보도참고) 7.18.(수) 이데일리 _[하반기 경제정책] 근로장려금 3.8조로 3배 확대,tone_fiscal,
+2018-08-28,moef,moef_201808_2019년 국세 세입예산안,tone_fiscal,
+2018-08-28,moef,"moef_201808_내 삶의 플러스, 2019년 활력예산안 및 2018~2022년 국가재정운용계획",tone_fiscal,-0.8148148148148148
+2018-08-31,moef,moef_201808_제8차 재정관리점검회의 및 19 예산안 대응 TF 1차 회의 개최,tone_fiscal,
+2018-08-31,mpb,bok_mpb_201808,tone_inflation,0.5
+2018-10-18,mpb,bok_mpb_201810,tone_inflation,0.6
+2018-11-13,moef,"moef_201811_김동연 부총리, 여야 원내대표 예방하여 법정기한 내 예산안 통과 협조 요청",tone_fiscal,
+2018-11-30,mpb,bok_mpb_201811,tone_inflation,0.7777777777777778
+2018-12-17,moef,moef_201812_「 2019년 경제정책방향」 발표,tone_fiscal,-0.75
+2019-01-24,mpb,bok_mpb_201901,tone_inflation,0.75
+2019-02-28,mpb,bok_mpb_201902,tone_inflation,0.5555555555555556
+2019-03-26,moef,moef_201903_2020년도 예산안 편성지침 및 기금운용계획안 작성지침,tone_fiscal,0.1636363636363636
+2019-04-18,mpb,bok_mpb_201904,tone_inflation,0.3333333333333333
+2019-04-24,moef,moef_201904_2019년 추가경정예산안,tone_fiscal,-1.0
+2019-05-02,moef,moef_201905_2020년도 예산안 편성세부지침 확정ㆍ배포,tone_fiscal,
+2019-05-31,mpb,bok_mpb_201905,tone_inflation,0.3333333333333333
+2019-07-03,moef,moef_201907_2019년 하반기 경제정책방향,tone_fiscal,-0.8
+2019-07-18,mpb,bok_mpb_201907,tone_inflation,0.1428571428571428
+2019-08-02,moef,moef_201908_2019년 추가경정예산안 국회확정,tone_fiscal,-1.0
+2019-08-29,moef,"moef_201908_국민중심·경제강국, 2020년 예산안 및 2019~2023년 국가재정운용계획",tone_fiscal,-0.7866666666666666
+2019-08-29,moef,moef_201908_2020년 국세 세입예산안,tone_fiscal,
+2019-08-30,mpb,bok_mpb_201908,tone_inflation,0.0
+2019-09-06,moef,moef_201909_범정부 예산안 대응 TF 개회,tone_fiscal,
+2019-10-16,mpb,bok_mpb_201910,tone_inflation,-0.3333333333333333
+2019-11-29,mpb,bok_mpb_201911,tone_inflation,0.0
+2019-12-19,moef,moef_201912_「 2020년 경제정책방향」 발표,tone_fiscal,-0.3157894736842105
+2020-01-17,mpb,bok_mpb_202001,tone_inflation,0.1111111111111111
+2020-02-27,mpb,bok_mpb_202002,tone_inflation,-0.1111111111111111
+2020-03-04,moef,moef_202003_2020년 추가경정예산안,tone_fiscal,-1.0
+2020-03-16,mpb,bok_mpb_202003,tone_inflation,-1.0
+2020-03-17,moef,moef_202003_코로나19 파급영향 최소화와 조기극복을 위한 2020년 추가경정예산안 국회 확정,tone_fiscal,-1.0
+2020-03-18,moef,moef_202003_「‘20년도 제1회 추가경정예산안의 국회 증액에 대한 동의 및 예산 공고(안)」 국무회의 ,tone_fiscal,-1.0
+2020-03-24,moef,moef_202003_2021년도 예산안 편성지침 및 기금운용계획안 작성지침,tone_fiscal,0.0847457627118644
+2020-04-09,mpb,bok_mpb_202004,tone_inflation,-0.4285714285714285
+2020-04-16,moef,moef_202004_2020년 제2회 추가경정예산안,tone_fiscal,-0.3333333333333333
+2020-04-30,moef,moef_202004_2020년도 제2회 추가경정예산 국회확정,tone_fiscal,-1.0
+2020-05-06,moef,moef_202005_2021년도 예산안 편성세부지침 확정ㆍ배포,tone_fiscal,
+2020-05-28,mpb,bok_mpb_202005,tone_inflation,-0.1666666666666666
+2020-06-01,moef,moef_202006_「 2020년 하반기 경제정책방향」 발표,tone_fiscal,-0.8888888888888888
+2020-06-03,moef,moef_202006_2020년도 제3회 추가경정예산안,tone_fiscal,-1.0
+2020-07-03,moef,moef_202007_2020년도 제3회 추가경정예산 국회확정,tone_fiscal,-1.0
+2020-07-16,mpb,bok_mpb_202007,tone_inflation,-0.3333333333333333
+2020-08-27,mpb,bok_mpb_202008,tone_inflation,0.1111111111111111
+2020-09-01,moef,moef_202009_2021년 국세 세입예산안,tone_fiscal,
+2020-09-01,moef,"moef_202009_'코로나 극복, 선도국가', 2021년 예산안 및 2020~2024년 국가재정운용계획",tone_fiscal,-0.8333333333333334
+2020-09-10,moef,moef_202009_2020년도 제4회 추가경정예산안,tone_fiscal,-1.0
+2020-09-22,moef,moef_202009_2020년도 제4회 추가경정예산 국회확정,tone_fiscal,-1.0
+2020-09-30,moef,moef_202009_제4차 추가경정예산 추석전 신속지급 추진현황,tone_fiscal,-1.0
+2020-10-14,mpb,bok_mpb_202010,tone_inflation,-0.1428571428571428
+2020-11-26,mpb,bok_mpb_202011,tone_inflation,-0.1428571428571428
+2020-12-17,moef,moef_202012_「2021년 경제정책방향」 발표,tone_fiscal,-0.9230769230769232
+2021-01-15,mpb,bok_mpb_202101,tone_inflation,-0.5
+2021-02-25,mpb,bok_mpb_202102,tone_inflation,0.1428571428571428
+2021-03-02,moef,moef_202103_2021년도 추가경정예산안,tone_fiscal,-1.0
+2021-03-25,moef,moef_202103_2021년도 제1회 추가경정예산 국회확정,tone_fiscal,-1.0
+2021-03-30,moef,moef_202103_2022년도 예산안 편성지침 및 기금운용계획 작성지침,tone_fiscal,-0.0126582278481012
+2021-04-15,mpb,bok_mpb_202104,tone_inflation,0.0
+2021-05-27,mpb,bok_mpb_202105,tone_inflation,0.2857142857142857
+2021-06-28,moef,moef_202106_「2021년 하반기 경제정책방향」,tone_fiscal,-0.7777777777777778
+2021-07-01,moef,moef_202107_2021년 제2회 추가경정예산안,tone_fiscal,-1.0
+2021-07-15,mpb,bok_mpb_202107,tone_inflation,0.0
+2021-07-24,moef,moef_202107_2021년도 제2회 추가경정예산 국회확정,tone_fiscal,-0.925925925925926
+2021-08-26,mpb,bok_mpb_202108,tone_inflation,0.1666666666666666
+2021-08-31,moef,"moef_202108__강한 경제, 민생 버팀목_, 2022년 예산안 및 2021~2025년 국가재정운용계획",tone_fiscal,-0.68
+2021-08-31,moef,moef_202108_(보도자료) 2022년 국세수입 예산안,tone_fiscal,-1.0
+2021-09-02,moef,moef_202109_2022년 국가 연구개발(R&D) 예산안 주요내용,tone_fiscal,-0.8
+2021-09-06,moef,moef_202109_핵심사업평가 결과 「2022년도 예산안」 반영 주요내용,tone_fiscal,-1.0
+2021-10-12,mpb,bok_mpb_202110,tone_inflation,-0.125
+2021-10-25,moef,moef_202110_(보도설명) 국회예산정책처의 2022년 예산안 분석에 대한 주요 언론보도 관련 설명,tone_fiscal,-1.0
+2021-11-16,moef,moef_202111_[보도참고] 금년 초과세수는 현 시점에서 추경예산 대비 약 19조원 수준으로 전망됩니다.,tone_fiscal,-1.0
+2021-11-25,mpb,bok_mpb_202111,tone_inflation,0.0
+2021-12-20,moef,moef_202112_「2022년 경제정책방향」 발표,tone_fiscal,
+2022-01-14,mpb,bok_mpb_202201,tone_inflation,0.2307692307692307
+2022-01-21,moef,moef_202201_2022년 추가경정예산안,tone_fiscal,-1.0
+2022-02-21,moef,moef_202202_2022년도 제1회 추가경정예산 국회 확정,tone_fiscal,-1.0
+2022-02-24,mpb,bok_mpb_202202,tone_inflation,0.2307692307692307
+2022-03-29,moef,moef_202203_2023년도 예산안 편성지침 및 기금운용계획안 작성지침,tone_fiscal,0.3333333333333333
+2022-04-14,mpb,bok_mpb_202204,tone_inflation,0.0
+2022-05-12,moef,moef_202205_2022년 2회 추가경정예산안,tone_fiscal,-0.8
+2022-05-13,moef,moef_202205_2023년 예산안 편성 및 기금운용계획안 작성 추가지침,tone_fiscal,1.0
+2022-05-26,mpb,bok_mpb_202205,tone_inflation,0.5714285714285714
+2022-05-29,moef,moef_202205_2022년 제2회 추가경정예산 국회 확정,tone_fiscal,-0.8823529411764706
+2022-06-16,moef,moef_202206_「새정부 경제정책방향」 발표,tone_fiscal,-0.027027027027027
+2022-07-13,mpb,bok_mpb_202207,tone_inflation,0.5454545454545454
+2022-08-25,mpb,bok_mpb_202208,tone_inflation,0.3333333333333333
+2022-08-30,moef,"moef_202208__따뜻한 나라, 역동적 경제, 건전한 재정_ 2023년 예산안 및 2022~2026년 국가",tone_fiscal,-0.0204081632653061
+2022-10-12,mpb,bok_mpb_202210,tone_inflation,0.3684210526315789
+2022-11-24,mpb,bok_mpb_202211,tone_inflation,0.5294117647058824
+2022-12-21,moef,moef_202212_「2023년 경제정책방향」 발표,tone_fiscal,-0.2972972972972973
+2023-01-13,mpb,bok_mpb_202301,tone_inflation,0.1304347826086956
+2023-02-23,mpb,bok_mpb_202302,tone_inflation,-0.0344827586206896
+2023-03-28,moef,moef_202303_2024년도 예산안 편성 및 기금운용계획안 작성지침,tone_fiscal,0.5
+2023-04-11,mpb,bok_mpb_202304,tone_inflation,-0.1851851851851851
+2023-05-25,mpb,bok_mpb_202305,tone_inflation,0.1428571428571428
+2023-07-04,moef,moef_202307_「2023년 하반기 경제정책방향」 발표,tone_fiscal,-1.0
+2023-07-13,mpb,bok_mpb_202307,tone_inflation,-0.1034482758620689
+2023-08-24,mpb,bok_mpb_202308,tone_inflation,0.0
+2023-08-29,moef,moef_202308_2024년 국세수입 예산안,tone_fiscal,
+2023-08-29,moef,"moef_202308__알뜰 재정, 살뜰 민생_ 2024년 예산안 및 2023~2027년 국가재정운용계획",tone_fiscal,0.1162790697674418
+2023-10-19,mpb,bok_mpb_202310,tone_inflation,0.2413793103448276
+2023-11-30,mpb,bok_mpb_202311,tone_inflation,0.25
+2024-01-04,moef,moef_202401_「2024년 경제정책방향」 발표,tone_fiscal,
+2024-01-11,mpb,bok_mpb_202401,tone_inflation,0.217391304347826
+2024-02-22,mpb,bok_mpb_202402,tone_inflation,0.1818181818181818
+2024-03-03,moef,moef_202403_경제정책방향 국민소통 플랫폼 _함께해요 경제정책방향_ 개설,tone_fiscal,
+2024-03-26,moef,moef_202403_2025년도 예산안 편성 및 기금운용계획안 작성지침,tone_fiscal,0.2
+2024-04-12,mpb,bok_mpb_202404,tone_inflation,0.2222222222222222
+2024-05-03,moef,"moef_202405_국민과 함께하는 경제정책방향 플랫폼,  양방향 소통창구로 내실있게 운영",tone_fiscal,
+2024-05-23,mpb,bok_mpb_202405,tone_inflation,0.3333333333333333
+2024-07-03,moef,moef_202407_「2024년 하반기 경제정책방향」 및 「역동경제 로드맵」 발표,tone_fiscal,
+2024-07-11,mpb,bok_mpb_202407,tone_inflation,0.0
+2024-08-22,mpb,bok_mpb_202408,tone_inflation,0.1818181818181818
+2024-08-27,moef,"moef_202408__민생활력, 미래도약_ 2025년 예산안 및 2024~2028년 국가재정운용계획",tone_fiscal,-0.4545454545454545
+2024-08-27,moef,moef_202408_2025년 국세수입 예산안,tone_fiscal,
+2024-09-03,moef,moef_202409_내년에 국민들이 2025년 예산안을 통해 받을 수 있는 혜택,tone_fiscal,
+2024-10-11,mpb,bok_mpb_202410,tone_inflation,-0.1666666666666666
+2024-11-28,mpb,bok_mpb_202411,tone_inflation,0.0476190476190476

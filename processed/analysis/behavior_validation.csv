@@ -1,0 +1,5 @@
+﻿search,behavior(YoY%),기대부호(긴축시행동),톤→검색,톤→행동,검색↔행동_전체,검색↔행동_긴축기,n
+deposit,bank_deposit,1,0.16,-0.11,-0.34,-0.04,96
+loan,household_loan,-1,0.1,-0.04,0.21,0.41,96
+realestate,house_price,-1,0.16,0.28,-0.15,0.06,96
+invest,invest_deposit,-1,-0.29,-0.13,0.58,0.52,96
