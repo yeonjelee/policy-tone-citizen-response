@@ -79,7 +79,3 @@ python scripts/event_study.py
 # 결과 보고서 생성
 node scripts/build_deck.js
 ```
-
-## AI 도구 활용
-
-LLM(Claude)은 **보조 도구**로 활용. 데이터 수집·정제 코드 구현, 디버깅, 시각화 등 반복·기술 작업에 사용. 연구설계·방법론·해석 등 학술적 판단은 연구자 본인이 수행. 상세 구분은 보고서 「AI 도구 활용 내역 보고」 참조.
